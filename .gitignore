@@ -21,3 +21,5 @@ cmake_install.cmake
 *_export.h
 detect_cuda_compute_capabilities.cu
 detect_cuda_version.cc
+
+.omc/
