@@ -11,6 +11,7 @@ app/android/res/raw/
 compile_flags.txt
 tags
 build_*
+build/
 *.bak
 
 # CMake build artifacts
